@@ -8,6 +8,10 @@ class Dogs
     @name= name
     @breed= breed
     @age= age
-    @@all< self
+    @@all << self
+  end
+  
+  def save
+    
 
 end
