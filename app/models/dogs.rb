@@ -1,3 +1,4 @@
-class Model
+class Dogs 
+  
 
 end
